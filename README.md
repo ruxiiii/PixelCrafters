@@ -5,10 +5,7 @@ PixelCrafters is a chat application that revolutionizes conversations by self-an
 The application leverages the power of cosine similarity calculations to match the generated response with a database of GIPHY captions. This ensures that the recommended GIFs are highly relevant and closely aligned with the chat content. Users can easily select and share the suggested GIFs within the chat platform, adding a touch of creativity and emotion to their conversations.
 
 
-
-
-https://github.com/ruxiiii/PixelCrafters/assets/84231284/4b10f716-1b83-4af0-9267-731aa2576a4e
-
+https://github.com/ruxiiii/PixelCrafters/assets/84231284/836fd7ba-496b-4c73-b3ac-2b0d4f6177d7
 
 
 Repo File details
