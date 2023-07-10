@@ -7,7 +7,18 @@ The application leverages the power of cosine similarity calculations to match t
 
 https://github.com/ruxiiii/PixelCrafters/assets/84231284/836fd7ba-496b-4c73-b3ac-2b0d4f6177d7
 
+https://github.com/ruxiiii/PixelCrafters/assets/84231284/83e52134-3327-4957-9228-df048e88dff7
 
-Repo File details
 
-gif.pkl contains a list of pairs [link to gif, caption]. For example, ['https://38.media.tumblr.com/c09eeaa2089b4bfb29bc47a713e1cc52/tumblr_nam26ule6o1tjjpjno1_250.gif', 'the man had water poured on him.']
+**REPO FILE DESCRIPTION** 
+
+**App.ipynb** 
+Code for the main app 
+
+**gif.pkl** 
+contains a list of pairs [link to gif, caption]. For example, ['https://38.media.tumblr.com/c09eeaa2089b4bfb29bc47a713e1cc52/tumblr_nam26ule6o1tjjpjno1_250.gif', 'the man had water poured on him.']
+
+**gif_dataset.tsv**
+dataset of gifs from http://raingo.github.io/TGIF-Release/
+
+
